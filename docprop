@@ -1,0 +1,15 @@
+# -*- mode: snippet -*-
+# name: docprop
+# key: dp
+# --
+\pdfinfo
+{
+  /Title (${1:title})
+  /Creator     (LaTeX)
+  /Author   (Andre Jesus)
+  /Keywords (${2:keywords})
+  /CreationDate (D:`(format-time-string "%Y%m%d%H%M%S")`)
+  /ModDate (D:\pdfdate)
+  /Subject (${3:subject})
+}
+$0
