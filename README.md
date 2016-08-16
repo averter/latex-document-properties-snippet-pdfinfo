@@ -1,4 +1,4 @@
-# latex_doc_prop_snippets
+# LaTeX document properties snippets
 This is a latex snippet to insert document properties automatically
 
 The nice thing is that it includes automatically the creation and modification date.
